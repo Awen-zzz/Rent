@@ -1,0 +1,135 @@
+{
+  "id": "3258629",
+  "name": "租房",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "579589",
+      "name": "wifi",
+      "font_class": "wifi",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "658907",
+      "name": "洗衣机",
+      "font_class": "xiyiji",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "1132473",
+      "name": "水暖气工程",
+      "font_class": "shuinuanqigongcheng",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "1264641",
+      "name": "好房拓 4.0.0 iconfont 2_热水器",
+      "font_class": "haofangtuo400iconfont2reshuiqi",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "1367319",
+      "name": "煤气天然气",
+      "font_class": "meiqitianranqi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1968842",
+      "name": "衣柜-灰",
+      "font_class": "yigui-hui",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2044430",
+      "name": "空调",
+      "font_class": "kongtiao",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "4762909",
+      "name": "电视机",
+      "font_class": "dianshiji",
+      "unicode": "e90a",
+      "unicode_decimal": 59658
+    },
+    {
+      "icon_id": "5961301",
+      "name": "冰箱",
+      "font_class": "bingxiang",
+      "unicode": "ec4f",
+      "unicode_decimal": 60495
+    },
+    {
+      "icon_id": "7813082",
+      "name": "沙发",
+      "font_class": "shafa",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "134650",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "2506223",
+      "name": "资讯",
+      "font_class": "zixun",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "5034919",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "28343681",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "28343682",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "28343683",
+      "name": "agent",
+      "font_class": "agent",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "28343684",
+      "name": "my",
+      "font_class": "my",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

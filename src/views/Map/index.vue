@@ -1,8 +1,7 @@
 <template>
-<div>
-  <!-- //一级路由占位符 -->
-    <router-view></router-view>
-</div>
+  <div>
+    <van-nav-bar title="地图找房" left-arrow @click-left="$router.back()" />
+  </div>
 </template>
 
 <script>
@@ -19,6 +18,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang='less'>
 
 </style>
